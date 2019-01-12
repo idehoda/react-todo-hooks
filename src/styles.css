@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list-wrapper{
+  max-width: 960px;
+  margin: 20px auto;
+}
